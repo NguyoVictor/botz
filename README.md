@@ -6,11 +6,8 @@ This is an application that allows users to browse through a list of robots, vie
 
 # Author
 
-- [Mercy Saina](https://github.com/sainamercy)
+- [VictorNguyo](https://github.com/NguyoVictor)
 
-# Live link
-
-- [click to open application](https://bot-battlr-mu.vercel.app/)
 
 ## Features
 - On load of the page, the `bots collection` will be displayed.
@@ -40,10 +37,10 @@ In order for you to use the content on this repo ensure you have the following:
 - Clone the repo by using the following to create a copy on your local machine:
 
         git clone https://github.com/sainamercy/Bot-Battlr
-       
+
 - Change directory to the repo folder:
 
-        cd Bot-Battlr
+        cd botz
 
 - Open it in ``Visual Studio Code``
 
@@ -69,11 +66,11 @@ To run the application, you can use the following steps to run the app.
 - Run `npm run dev` then follow the link provided to open the application on your browser.
 
         npm run dev
-        
+
 - Repeat the steps on the `Features` section above.
 
 # License
 
-- The project is licensed by `ISC`.
+- The project is licensed by `MIT`.
 
 
