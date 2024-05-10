@@ -53,7 +53,7 @@ In order for you to use the content on this repo ensure you have the following:
 - Take on the process in ``Alternative One`` above.
 - Remember to replace your username when cloning.
 
-        git clone https://github.com/your-username-here/Bot-Battlr
+        git clone https://github.com/your-username-here/botz
 
 ## Running the application
 
