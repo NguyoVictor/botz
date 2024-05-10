@@ -36,7 +36,7 @@ In order for you to use the content on this repo ensure you have the following:
 - Open a terminal / command line interface on your computer.
 - Clone the repo by using the following to create a copy on your local machine:
 
-        git clone https://github.com/sainamercy/Bot-Battlr
+        git clone https://github.com/NguyoVictor/botz
 
 - Change directory to the repo folder:
 
